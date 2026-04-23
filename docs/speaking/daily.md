@@ -7,3 +7,4 @@ custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaki
 
 # 매일 말하기
 
+Have a good one. 
