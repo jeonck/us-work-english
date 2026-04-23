@@ -59,6 +59,36 @@ const sidebars: SidebarsConfig = {
       ],
     },
   ],
+
+  listeningSidebar: [
+    {
+      type: 'category',
+      label: '영어 듣기',
+      collapsed: false,
+      items: [
+        'listening/intro',
+        'listening/accents',
+        'listening/meetings',
+        'listening/shadowing',
+        'listening/resources',
+      ],
+    },
+  ],
+
+  speakingSidebar: [
+    {
+      type: 'category',
+      label: '영어 말하기',
+      collapsed: false,
+      items: [
+        'speaking/intro',
+        'speaking/pronunciation',
+        'speaking/fluency',
+        'speaking/fillers',
+        'speaking/practice',
+      ],
+    },
+  ],
 };
 
 export default sidebars;

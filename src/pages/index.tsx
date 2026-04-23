@@ -32,6 +32,18 @@ const sections = [
     description: '상황별로 바로 꺼내 쓰는 표현 모음 — 외우지 말고 찾아 쓰세요',
     link: '/docs/phrasebook/intro',
   },
+  {
+    title: '영어 듣기',
+    emoji: '🎧',
+    description: '억양·연음 이해부터 쉐도잉까지 — 원어민 영어를 알아듣는 법',
+    link: '/docs/listening/intro',
+  },
+  {
+    title: '영어 말하기',
+    emoji: '🗣️',
+    description: '발음·유창함·필러워드·연습법 — 자신 있게 입을 여는 법',
+    link: '/docs/speaking/intro',
+  },
 ];
 
 function HomepageHeader() {
@@ -63,7 +75,7 @@ function HomepageHeader() {
 
 function SectionCard({title, emoji, description, link}: typeof sections[0]) {
   return (
-    <div className="col col--3">
+    <div className="col col--4">
       <div className="card margin--sm" style={{height: '100%'}}>
         <div className="card__header">
           <h3>{emoji} {title}</h3>

@@ -82,6 +82,18 @@ const config: Config = {
           position: 'left',
           label: '표현 사전',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'listeningSidebar',
+          position: 'left',
+          label: '영어 듣기',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'speakingSidebar',
+          position: 'left',
+          label: '영어 말하기',
+        },
         {to: '/blog', label: '학습 팁', position: 'left'},
       ],
     },
