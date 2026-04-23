@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_=self.webpackChunk_||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uC9C1\uC7A5 \uC601\uC5B4, \uC774\uBA54\uC77C\uBD80\uD130 \uC2DC\uC791\uD558\uC138\uC694","permalink":"/us-work-english/blog/start-with-email","unlisted":false,"date":"2026-04-23T00:00:00.000Z"}]}')}}]);

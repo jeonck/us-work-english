@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_=self.webpackChunk_||[]).push([["9925"],{9569(s){s.exports=JSON.parse('{"tags":[{"label":"\uC774\uBA54\uC77C","permalink":"/us-work-english/blog/tags/\uC774\uBA54\uC77C","count":1},{"label":"\uC2DC\uC791\uD558\uAE30","permalink":"/us-work-english/blog/tags/\uC2DC\uC791\uD558\uAE30","count":1}]}')}}]);
