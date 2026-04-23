@@ -2,6 +2,7 @@
 id: fluency
 sidebar_position: 3
 title: 유창하게 말하기
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/fluency.md
 ---
 
 # 유창하게 말하기

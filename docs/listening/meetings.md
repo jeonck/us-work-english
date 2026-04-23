@@ -2,6 +2,7 @@
 id: meetings
 sidebar_position: 3
 title: 회의 듣기
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/listening/meetings.md
 ---
 
 # 회의에서 놓치지 않고 따라가기

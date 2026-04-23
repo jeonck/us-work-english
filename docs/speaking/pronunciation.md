@@ -2,6 +2,7 @@
 id: pronunciation
 sidebar_position: 2
 title: 발음
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/pronunciation.md
 ---
 
 # 핵심 발음

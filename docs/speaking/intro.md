@@ -2,6 +2,7 @@
 id: intro
 sidebar_position: 1
 title: 영어 말하기 시작하기
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/intro.md
 ---
 
 # 영어 말하기 시작하기

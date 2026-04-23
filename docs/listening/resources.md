@@ -2,6 +2,7 @@
 id: resources
 sidebar_position: 5
 title: 추천 리소스
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/listening/resources.md
 ---
 
 # 듣기 훈련 추천 리소스

@@ -2,6 +2,7 @@
 id: shadowing
 sidebar_position: 4
 title: 쉐도잉 훈련법
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/listening/shadowing.md
 ---
 
 # 쉐도잉 (Shadowing)

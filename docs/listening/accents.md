@@ -2,6 +2,7 @@
 id: accents
 sidebar_position: 2
 title: 미국 영어 억양과 발음 특징
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/listening/accents.md
 ---
 
 # 미국 영어 억양과 발음 특징

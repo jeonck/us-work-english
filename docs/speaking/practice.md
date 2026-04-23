@@ -2,6 +2,7 @@
 id: practice
 sidebar_position: 5
 title: 말하기 연습법
+custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/practice.md
 ---
 
 # 말하기 연습법
