@@ -69,3 +69,9 @@ That’s why I’m excited about this role, where accuracy and insights are key.
 
 You don’t get multiple first impressions in an interview. Make the first answer count.￼  
 
+
+“Early in my career, I underestimated a project timeline and missed a key deadline.
+
+Since then, I’ve started breaking work into smaller checkpoints and communicating risks earlier, and I haven’t repeated that mistake.”
+
+Interviewers don’t expect perfection. They look for self-awareness.￼ 
