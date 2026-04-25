@@ -44,3 +44,16 @@ I will take what I get. 있는 거라도 감사해.  way to : This is way to exp
 
 They do not think outside the box.
 (그들은 창의적으로 생각하지 않아요.)   
+
+🍒“come clean”
+"숨기던 걸 솔직하게 말하다 / 털어놓다"
+
+✔️"I need to come clean."
+" 나 이제 솔직하게 말해야겠어"
+
+✔️" She came clean to me."
+" 걔 나한테 다 털어놨어"
+
+✔️" Just come clean."
+"그냥 솔직히 말해"￼
+
