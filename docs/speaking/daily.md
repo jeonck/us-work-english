@@ -38,3 +38,9 @@ I will take what I get. 있는 거라도 감사해.  way to : This is way to exp
 “It’s about 20 to 30 minutes ██ ████”
 “It’s about 20 to 30 minutes ████”
 “It’s about 20 to 30 minutes ███████”. 
+
+
+✅ think outside the box = 창의적으로 생각하다, 틀을 깨고 생각하다
+
+They do not think outside the box.
+(그들은 창의적으로 생각하지 않아요.)   
