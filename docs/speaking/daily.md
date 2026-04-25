@@ -23,4 +23,18 @@ I will take what I get. 있는 거라도 감사해.  way to : This is way to exp
 ✔️Maybe it’s just me, but I didn’t like that.
  내가 예민한 걸 수도 있는데, 그건 좀 별로 였어.
 
-✔️Maybe it’s just me, but this service is kinda slow."나만 그런지 모르겠는데, 여기 서비스 좀 느린 듯"￼
+✔️Maybe it’s just me, but this service is kinda slow."나만 그런지 모르겠는데, 여기 서비스 좀 느린 듯"￼. 
+
+📚워홀로 영어 공부하기 - 05
+
+잡 인터뷰 보러 갔는데
+여기까지 오는데 얼마나 걸리녜
+
+걸어서 20-30분 거리라서
+“It’s about 20 to 30 minutes by walk” 
+이라고 대답 했는데 틀린 표현이래
+
+제대로 하려면
+“It’s about 20 to 30 minutes ██ ████”
+“It’s about 20 to 30 minutes ████”
+“It’s about 20 to 30 minutes ███████”. 
