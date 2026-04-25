@@ -54,6 +54,18 @@ They do not think outside the box.
 ✔️" She came clean to me."
 " 걔 나한테 다 털어놨어"
 
-✔️" Just come clean."
-"그냥 솔직히 말해"￼
+✔️" Just come clean."   
+"그냥 솔직히 말해"   
+
+1. Who you are (professionally)
+2. What you’ve done (1 strong proof)
+3. Why it matters here
+
+EXAMPLE:
+“I’m a business analyst with experience in data-driven decision making.
+
+In my previous role, I helped reduce reporting errors by 25% by improving data validation processes.
+That’s why I’m excited about this role, where accuracy and insights are key.”
+
+You don’t get multiple first impressions in an interview. Make the first answer count.￼  
 
