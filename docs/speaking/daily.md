@@ -75,3 +75,12 @@ You don’t get multiple first impressions in an interview. Make the first answe
 Since then, I’ve started breaking work into smaller checkpoints and communicating risks earlier, and I haven’t repeated that mistake.”
 
 Interviewers don’t expect perfection. They look for self-awareness.￼ 
+
+
+🍒"Go-getter"
+"의욕 넘치고, 뭐든 적극적으로 해내는 사람"
+ “야망 있고 추진력 있는 사람”
+
+✔️“She’s a real go-getter.”
+" 걔 진짜 적극적이고 잘 해내는 스타일이야"￼. 
+
