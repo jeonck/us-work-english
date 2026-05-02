@@ -20,7 +20,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: '직장 소통',
-      collapsed: false,
+      collapsed: true,
       items: [
         'workplace/intro',
         'workplace/email',
@@ -71,7 +71,23 @@ const sidebars: SidebarsConfig = {
         'listening/meetings',
         'listening/shadowing',
         'listening/resources',
-        'listening/daily',
+        {
+          type: 'category',
+          label: '매일 듣기',
+          collapsed: false,
+          items: [
+            'listening/daily',
+            {
+              type: 'category',
+              label: '폭스뉴스 듣기',
+              collapsed: false,
+              items: [
+                'listening/fox-news/intro',
+                'listening/fox-news/2026-05-01',
+              ],
+            },
+          ],
+        },
       ],
     },
   ],
