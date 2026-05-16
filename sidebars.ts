@@ -60,6 +60,33 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
+  readingSidebar: [
+    {
+      type: 'category',
+      label: '원서 읽기',
+      collapsed: false,
+      items: [
+        'reading/intro',
+        'reading/how-to-choose',
+        'reading/strategies',
+        'reading/vocabulary',
+        'reading/booklist',
+        {
+          type: 'category',
+          label: 'When You Trap a Tiger',
+          collapsed: false,
+          items: [
+            'reading/when-you-trap-a-tiger/intro',
+            'reading/when-you-trap-a-tiger/save-the-day',
+            'reading/when-you-trap-a-tiger/magic',
+            'reading/when-you-trap-a-tiger/come-in-handy',
+            'reading/when-you-trap-a-tiger/wrap-in-invisibility',
+          ],
+        },
+      ],
+    },
+  ],
+
   listeningSidebar: [
     {
       type: 'category',

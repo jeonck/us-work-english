@@ -84,6 +84,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'readingSidebar',
+          position: 'left',
+          label: '원서 읽기',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'listeningSidebar',
           position: 'left',
           label: '영어 듣기',
