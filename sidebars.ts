@@ -91,6 +91,7 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/good-attitude',
             'reading/when-you-trap-a-tiger/shoves-glasses',
             'reading/when-you-trap-a-tiger/how-can-you-even',
+            'reading/when-you-trap-a-tiger/how-it-always-starts',
           ],
         },
       ],
