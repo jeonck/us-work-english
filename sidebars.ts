@@ -85,6 +85,7 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/slug-slow',
             'reading/when-you-trap-a-tiger/inch-past',
             'reading/when-you-trap-a-tiger/inside-joke',
+            'reading/when-you-trap-a-tiger/smacks-k',
           ],
         },
       ],
