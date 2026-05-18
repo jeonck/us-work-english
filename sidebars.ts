@@ -100,6 +100,7 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/uproot',
             'reading/when-you-trap-a-tiger/for-good',
             'reading/when-you-trap-a-tiger/tone-clipped',
+            'reading/when-you-trap-a-tiger/not-after-dad-died',
           ],
         },
       ],
