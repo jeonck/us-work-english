@@ -96,6 +96,8 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/like-you-realize',
             'reading/when-you-trap-a-tiger/all-edges',
             'reading/when-you-trap-a-tiger/hold-my-breath',
+            'reading/when-you-trap-a-tiger/no-seriously',
+            'reading/when-you-trap-a-tiger/uproot',
           ],
         },
       ],
