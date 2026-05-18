@@ -98,6 +98,7 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/hold-my-breath',
             'reading/when-you-trap-a-tiger/no-seriously',
             'reading/when-you-trap-a-tiger/uproot',
+            'reading/when-you-trap-a-tiger/for-good',
           ],
         },
       ],
