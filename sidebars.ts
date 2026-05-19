@@ -101,6 +101,8 @@ const sidebars: SidebarsConfig = {
             'reading/when-you-trap-a-tiger/for-good',
             'reading/when-you-trap-a-tiger/tone-clipped',
             'reading/when-you-trap-a-tiger/not-after-dad-died',
+            'reading/when-you-trap-a-tiger/way-to-deflect',
+            'reading/when-you-trap-a-tiger/slips-by',
           ],
         },
       ],
