@@ -202,6 +202,11 @@ const sidebars: SidebarsConfig = {
           label: '영어식 사고 말하기 문장 100개',
           href: 'https://learnable1.notion.site/100-1fea2a4de60d8050b8fbe6cc080d0eba',
         },
+        {
+          type: 'link',
+          label: 'USA Learns (무료 생활영어 학습)',
+          href: 'https://www.usalearns.org/student-home',
+        },
       ],
     },
   ],
