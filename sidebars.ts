@@ -202,8 +202,15 @@ const sidebars: SidebarsConfig = {
         'speaking/fillers',
         'speaking/practice',
         'speaking/daily',
-        'speaking/interview',
-        'speaking/interview2',
+        {
+          type: 'category',
+          label: '영어 면접',
+          collapsed: false,
+          items: [
+            'speaking/interview',
+            'speaking/interview2',
+          ],
+        },
         {
           type: 'link',
           label: '영어식 사고 말하기 문장 100개',
