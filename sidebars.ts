@@ -72,6 +72,11 @@ const sidebars: SidebarsConfig = {
         'reading/vocabulary',
         'reading/booklist',
         {
+          type: 'link',
+          label: 'Project Gutenberg (무료 원서)',
+          href: 'https://www.gutenberg.org/',
+        },
+        {
           type: 'category',
           label: 'When You Trap a Tiger',
           collapsed: false,
