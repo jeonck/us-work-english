@@ -200,6 +200,11 @@ const sidebars: SidebarsConfig = {
           href: 'https://www.npr.org/',
         },
         {
+          type: 'link',
+          label: 'TED-Ed (YouTube)',
+          href: 'https://www.youtube.com/@TEDEd/videos',
+        },
+        {
           type: 'category',
           label: '매일 듣기',
           collapsed: true,
