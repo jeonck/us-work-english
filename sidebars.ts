@@ -215,7 +215,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '영어 면접',
-          collapsed: false,
+          collapsed: true,
           items: [
             'speaking/interview',
             'speaking/interview2',
