@@ -44,6 +44,12 @@ const sections = [
     description: '발음·유창함·필러워드·연습법 — 자신 있게 입을 여는 법',
     link: '/docs/speaking/intro',
   },
+  {
+    title: '원서 읽기',
+    emoji: '📚',
+    description: '영어 원서 고르는 법, 읽기 전략, 어휘 확장 — 읽으면서 실력이 쌓이는 법',
+    link: '/docs/reading/intro',
+  },
 ];
 
 function HomepageHeader() {
