@@ -61,6 +61,11 @@ const sidebars: SidebarsConfig = {
           label: '필수 구동사 사전',
           href: 'https://jeonck.github.io/us-start/docs/english/phrasal-verbs',
         },
+        {
+          type: 'link',
+          label: '영어 한문장',
+          href: 'https://jeonck.github.io/one-sentence/',
+        },
       ],
     },
   ],
