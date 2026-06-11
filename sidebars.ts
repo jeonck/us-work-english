@@ -209,6 +209,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'speaking/interview',
             'speaking/interview2',
+            'speaking/interview3',
           ],
         },
         {
