@@ -192,6 +192,11 @@ const sidebars: SidebarsConfig = {
         'speaking/fillers',
         'speaking/practice',
         'speaking/daily',
+        {
+          type: 'link',
+          label: '영어식 사고 말하기 문장 100개',
+          href: 'https://learnable1.notion.site/100-1fea2a4de60d8050b8fbe6cc080d0eba',
+        },
       ],
     },
   ],
