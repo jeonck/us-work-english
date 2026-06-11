@@ -1,11 +1,11 @@
 ---
 id: interview2
 sidebar_position: 8
-title: 영어 면접 필수 표현 2
+title: 리더십·성과·역질문 표현
 custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/interview2.md
 ---
 
-# 영어 면접 필수 표현 20문장 — 세트 2
+# 리더십·성과·역질문 표현 20문장
 
 첫 번째 세트에서 다루지 않은 주제들로 구성했습니다. 커리어 목표부터 역질문까지, 실전 면접의 흐름을 완성하세요.
 

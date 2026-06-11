@@ -1,11 +1,11 @@
 ---
 id: interview
 sidebar_position: 7
-title: 영어 면접 필수 표현
+title: 자기소개·강점·동기 표현
 custom_edit_url: https://github.com/jeonck/us-work-english/edit/main/docs/speaking/interview.md
 ---
 
-# 영어 면접 필수 표현 20문장
+# 자기소개·강점·동기 표현 20문장
 
 면접에서 자주 등장하는 질문과 답변 패턴을 익혀두면, 실전에서 훨씬 자신 있게 말할 수 있습니다.
 
