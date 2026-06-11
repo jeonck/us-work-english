@@ -56,6 +56,11 @@ const sidebars: SidebarsConfig = {
         'phrasebook/daily',
         'phrasebook/requests',
         'phrasebook/disagreeing',
+        {
+          type: 'link',
+          label: '필수 구동사 사전',
+          href: 'https://jeonck.github.io/us-start/docs/english/phrasal-verbs',
+        },
       ],
     },
   ],
