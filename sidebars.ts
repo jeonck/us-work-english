@@ -180,6 +180,26 @@ const sidebars: SidebarsConfig = {
         'listening/shadowing',
         'listening/resources',
         {
+          type: 'link',
+          label: 'VOA Learning English',
+          href: 'https://learningenglish.voanews.com/',
+        },
+        {
+          type: 'link',
+          label: 'BBC Learning English',
+          href: 'https://www.bbc.co.uk/learningenglish',
+        },
+        {
+          type: 'link',
+          label: 'TED Talks',
+          href: 'https://www.ted.com/',
+        },
+        {
+          type: 'link',
+          label: 'NPR (미국 공영 라디오)',
+          href: 'https://www.npr.org/',
+        },
+        {
           type: 'category',
           label: '매일 듣기',
           collapsed: false,
