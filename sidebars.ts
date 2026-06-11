@@ -202,7 +202,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: '매일 듣기',
-          collapsed: false,
+          collapsed: true,
           items: [
             'listening/daily',
             {
