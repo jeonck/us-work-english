@@ -84,7 +84,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'category',
           label: 'When You Trap a Tiger',
-          collapsed: false,
+          collapsed: true,
           items: [
             'reading/when-you-trap-a-tiger/intro',
             'reading/when-you-trap-a-tiger/save-the-day',
