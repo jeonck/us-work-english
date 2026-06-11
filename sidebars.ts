@@ -203,6 +203,7 @@ const sidebars: SidebarsConfig = {
         'speaking/practice',
         'speaking/daily',
         'speaking/interview',
+        'speaking/interview2',
         {
           type: 'link',
           label: '영어식 사고 말하기 문장 100개',
