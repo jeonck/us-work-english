@@ -77,6 +77,11 @@ const sidebars: SidebarsConfig = {
           href: 'https://www.gutenberg.org/',
         },
         {
+          type: 'link',
+          label: 'Wonder — R.J. Palacio (챕터별 원어민 표현)',
+          href: 'https://jeonck.github.io/wonder-english/',
+        },
+        {
           type: 'category',
           label: 'When You Trap a Tiger',
           collapsed: false,
