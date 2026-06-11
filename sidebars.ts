@@ -220,6 +220,7 @@ const sidebars: SidebarsConfig = {
             'speaking/interview',
             'speaking/interview2',
             'speaking/interview3',
+            'speaking/interview-retail',
           ],
         },
         {
