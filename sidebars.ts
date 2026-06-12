@@ -263,6 +263,11 @@ const sidebars: SidebarsConfig = {
           label: '일상 문장 말하기',
           href: 'https://www.youtube.com/@%EC%96%B4%ED%8A%B8%EC%98%81',
         },
+        {
+          type: 'link',
+          label: 'Huberman Lab (YouTube)',
+          href: 'https://www.youtube.com/@hubermanlab',
+        },
       ],
     },
   ],
