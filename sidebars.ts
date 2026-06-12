@@ -258,6 +258,11 @@ const sidebars: SidebarsConfig = {
           label: 'USA Learns (무료 생활영어 학습)',
           href: 'https://www.usalearns.org/student-home',
         },
+        {
+          type: 'link',
+          label: '일상 문장 말하기',
+          href: 'https://www.youtube.com/@%EC%96%B4%ED%8A%B8%EC%98%81',
+        },
       ],
     },
   ],
