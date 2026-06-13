@@ -268,6 +268,11 @@ const sidebars: SidebarsConfig = {
           label: 'Huberman Lab (YouTube)',
           href: 'https://www.youtube.com/@hubermanlab',
         },
+        {
+          type: 'link',
+          label: 'BBC 6 Minute English',
+          href: 'https://www.bbc.co.uk/learningenglish/english/features/6-minute-english',
+        },
       ],
     },
   ],
