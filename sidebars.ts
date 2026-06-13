@@ -205,6 +205,11 @@ const sidebars: SidebarsConfig = {
           href: 'https://www.youtube.com/@TEDEd/videos',
         },
         {
+          type: 'link',
+          label: 'Scientific American Podcasts',
+          href: 'https://www.scientificamerican.com/podcasts/',
+        },
+        {
           type: 'category',
           label: '매일 듣기',
           collapsed: true,
