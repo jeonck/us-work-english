@@ -278,6 +278,11 @@ const sidebars: SidebarsConfig = {
           label: 'BBC 6 Minute English',
           href: 'https://www.bbc.co.uk/learningenglish/english/features/6-minute-english',
         },
+        {
+          type: 'link',
+          label: 'NPR Life Kit',
+          href: 'https://www.npr.org/lifekit',
+        },
       ],
     },
   ],
