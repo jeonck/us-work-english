@@ -210,6 +210,11 @@ const sidebars: SidebarsConfig = {
           href: 'https://www.scientificamerican.com/podcasts/',
         },
         {
+          type: 'link',
+          label: 'Parroto (쉐도잉 앱)',
+          href: 'https://parroto.app/ko',
+        },
+        {
           type: 'category',
           label: '매일 듣기',
           collapsed: true,
