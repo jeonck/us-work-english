@@ -283,6 +283,11 @@ const sidebars: SidebarsConfig = {
           label: 'NPR Life Kit',
           href: 'https://www.npr.org/lifekit',
         },
+        {
+          type: 'link',
+          label: 'YouGlish (발음 검색)',
+          href: 'https://youglish.com/',
+        },
       ],
     },
   ],
