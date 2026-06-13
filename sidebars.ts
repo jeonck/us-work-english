@@ -293,6 +293,11 @@ const sidebars: SidebarsConfig = {
           label: 'YouGlish (발음 검색)',
           href: 'https://youglish.com/',
         },
+        {
+          type: 'link',
+          label: 'Daily Dictation',
+          href: 'https://dailydictation.com/',
+        },
       ],
     },
   ],
