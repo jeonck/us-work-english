@@ -27,7 +27,15 @@ const sidebars: SidebarsConfig = {
         'workplace/meetings',
         'workplace/slack-teams',
         'workplace/small-talk',
-        'workplace/presentations',
+        {
+          type: 'category',
+          label: '발표 (Presentations)',
+          collapsed: true,
+          items: [
+            'workplace/presentations',
+            'workplace/presentations-expressions',
+          ],
+        },
       ],
     },
   ],
