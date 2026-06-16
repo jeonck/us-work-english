@@ -24,7 +24,15 @@ const sidebars: SidebarsConfig = {
       items: [
         'workplace/intro',
         'workplace/email',
-        'workplace/meetings',
+        {
+          type: 'category',
+          label: '미팅 (Meetings)',
+          collapsed: true,
+          items: [
+            'workplace/meetings',
+            'workplace/meetings-expressions',
+          ],
+        },
         'workplace/slack-teams',
         'workplace/small-talk',
         {
