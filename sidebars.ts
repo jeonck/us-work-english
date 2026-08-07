@@ -243,6 +243,7 @@ const sidebars: SidebarsConfig = {
               items: [
                 'listening/fox-news/intro',
                 'listening/fox-news/2026-05-01',
+                'listening/fox-news/2026-08-08',
               ],
             },
           ],
