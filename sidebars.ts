@@ -248,6 +248,7 @@ const sidebars: SidebarsConfig = {
                 'listening/fox-news/2026-08-10',
                 'listening/fox-news/2026-08-11',
                 'listening/fox-news/2026-08-12',
+                'listening/fox-news/2026-08-13',
               ],
             },
           ],
